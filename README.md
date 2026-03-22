@@ -1,4 +1,4 @@
-# 📊 Power BI – Dashboard de Vendas Globais
+# 📊 Power BI – Dashboard Prime Shop
 
 ## 📌 Sobre o Projeto
 
